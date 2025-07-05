@@ -1,17 +1,14 @@
 
-#first {
-    background-color: aqua;
-    height: 70px;
+div{
+    
     width: 300px;
-    text-align: center;
-    margin-bottom: 50px;
-   border: 30px solid red;
+    border: 2px solid red;
+    margin: auto;
 }
-#second{
-    background-color: rgb(96, 148, 174);
-    height: 70px;
-    width: 300px;
-    margin-top: 51px;
-    border: 20px solid rgb(209, 111, 25);
-   
+#center{
+    background-color: beige;
+    border: 1px solid red;
+    display: block;
+    width: 400px;
+    margin: auto;
 }
