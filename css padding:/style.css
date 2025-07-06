@@ -1,0 +1,20 @@
+
+
+p{
+    padding: 7px;
+    border: 1px solid red;
+    text-align: center;
+    width: 250px;
+    margin: auto;
+
+}
+div.ex1 {
+    width: 300px;
+    border: 1px solid red;
+}
+div.ex2 {
+    width: 300px;
+    border: 1px solid red;
+    padding: 25px;
+    box-sizing: border-box;
+}
